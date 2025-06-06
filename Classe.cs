@@ -16,7 +16,7 @@ namespace Apresentacao {
   }
 }
 
-public void Alteracao01()
+public void Alteracao003()
 {
-Console.WriteLine("Esta é a primeira feature.");
+Console.WriteLine("Resolvendo o conflito das duas features.");
 }
