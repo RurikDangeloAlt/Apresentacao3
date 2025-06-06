@@ -15,3 +15,8 @@ namespace Apresentacao {
     }
   }
 }
+
+public void Alteracao03()
+{
+Console.WriteLine("Esta é a terceira feature.");
+}
