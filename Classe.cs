@@ -15,3 +15,8 @@ namespace Apresentacao {
     }
   }
 }
+
+public void Alteracao002()
+{
+Console.WriteLine("Esta é a segunda feature com conflito.");
+}
